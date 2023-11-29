@@ -36,6 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+![Screenshot 2023-11-29 213453](https://github.com/tamilh45/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/150312761/335a7e93-bede-4e6d-b09a-7ebef4384cfd)
  
  
  ## RESULT
